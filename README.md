@@ -7,10 +7,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -32,25 +28,73 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ETrEen3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+roles
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/w9pAPHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+departments
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/eeO8zeF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+teams
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/B9jE1t8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+agent
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/Tu2VvQd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+agents
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/KRhFvRv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+users
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/Mfi51ik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Sla
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/RiLyieb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Slas
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/96eADGP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+help topics
 </p>
 <br />
