@@ -28,11 +28,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+-  Configure Roles
+-  Admin Panel -> Agents -> Roles
+-  Supreme Admin
+
+
 <p>
 <img src="https://imgur.com/ETrEen3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 roles
+
+-  Configure Departments
+-  Admin Panel -> Agents -> Departments
+-  System Administrators
+
 </p>
 <br />
 
@@ -41,6 +51,16 @@ roles
 </p>
 <p>
 departments
+
+-  Configure Teams
+-  Admin Panel -> Agents -> Teams
+-  Level I Support
+-  Level II Support
+-  Allow anyone to create tickets
+-  Admin Panel -> Settings -> User Settings
+-  Registration Required: Require registration and login to create tickets 
+
+
 </p>
 <br />
 
@@ -49,6 +69,12 @@ departments
 </p>
 <p>
 teams
+
+-  Configure Agents (workers)
+-  Admin Panel -> Agents -> Add New
+-  Jane
+-  John
+
 </p>
 <br />
 
@@ -65,6 +91,12 @@ agent
 </p>
 <p>
 agents
+
+-  Configure Users (customers)
+-  Agent Panel -> Users -> Add New
+-  Karen
+-  Ken
+
 </p>
 <br />
 
@@ -73,6 +105,13 @@ agents
 </p>
 <p>
 users
+
+-  Configure SLA
+-  Admin Panel -> Manage -> SLA
+-  Sev-A (1 hour, 24/7)
+-  Sev-B (4 hours, 24/7)
+-  Sev-C (8 hours, business hours)
+
 </p>
 <br />
 
@@ -89,6 +128,14 @@ Sla
 </p>
 <p>
 Slas
+
+-  Configure Help Topics
+-  Admin Panel -> Manage -> Help Topics
+-  Business Critical Outage
+-  Personal Computer Issues
+-  Equipment Request
+-  Password Reset
+
 </p>
 <br />
 
