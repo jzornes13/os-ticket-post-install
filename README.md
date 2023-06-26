@@ -19,18 +19,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- create and configure roles
-- create and configure departments 
-- create and configure teams
-- create and configure agents and users
-- configure SLA
-- configure help desk topics
+- Create and configure roles
+- Create and configure departments 
+- Create and configure teams
+- Create and configure agents and users
+- Configure SLA
+- Configure help desk topics
 
 <h2>Configuration Steps</h2>
 
--  Configure Roles
--  Admin Panel -> Agents -> Roles
--  Supreme Admin
+-  Sign into osTicket system as an admin https://localhost/osTicket/scp/login.php
+-  In the top left there is a "agent panel" and a "admin panel" tabs to switch back and forth. (it will say Agent when you are in the Admin panel you will click Agent to switch)
+-  Configure Roles from Admin panel
+-  Admin Panel -> Agents -> Roles -> add
+-  Name new agent Supreme Admin -> click all boxes
+-  click permissions tab -> click everything -> add role -> save
 
 
 <p>
@@ -40,8 +43,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 roles
 
 -  Configure Departments
--  Admin Panel -> Agents -> Departments
--  System Administrators
+-  Admin Panel -> Agents -> Departments -> add department
+-  Name new department System Administrators -> keep default settings for now -> create department
 
 </p>
 <br />
@@ -54,11 +57,11 @@ departments
 
 -  Configure Teams
 -  Admin Panel -> Agents -> Teams
--  Level I Support
--  Level II Support
+-  Name first team Level I Support -> We won't add any users just create team
+-  Name second team Level II Support -> We won't add any users just create team
 -  Allow anyone to create tickets
--  Admin Panel -> Settings -> User Settings
--  Registration Required: Require registration and login to create tickets 
+-  Admin Panel -> Settings -> User Settings -> make sure registration required is UNchecked
+  
 
 
 </p>
@@ -72,8 +75,13 @@ teams
 
 -  Configure Agents (workers)
 -  Admin Panel -> Agents -> Add New
--  Jane
--  John
+-  Name first agent Jane Doe
+-  Create credentials for both and save then for future use
+-  Click set set password button after username  
+-  On set agent password UNcheck "send the agent a password reset email" -> UNcheck "require password change at next login" -> click set
+-  Under the access tab -> primary department is system admin, supreme admin -> under Teams select level II agent -> create.
+-  Name the second John Doe -> same settings as Jane
+
 
 </p>
 <br />
@@ -93,9 +101,9 @@ agent
 agents
 
 -  Configure Users (customers)
--  Agent Panel -> Users -> Add New
--  Karen
--  Ken
+-  Switch to Agent Panel -> Users -> Add New
+-  Karen Doe -> make up email Karen@osTicket.com for example
+-  Ken Doe
 
 </p>
 <br />
@@ -107,10 +115,10 @@ agents
 users
 
 -  Configure SLA
--  Admin Panel -> Manage -> SLA
--  Sev-A (1 hour, 24/7)
--  Sev-B (4 hours, 24/7)
--  Sev-C (8 hours, business hours)
+-  Switch back to Admin Panel -> Manage -> SLA
+-  Name the first one Sev-A -> grace period set for 1 hour-> schedule 24/7 -> add plan
+-  Name the second on Sev-B -> grace period 4 hours -> schedule 24/7
+-  Name the third Sev-C grace period 8 hours -> Monday-Friday 8am-5pm with US holidays
 
 </p>
 <br />
@@ -130,11 +138,11 @@ Sla
 Slas
 
 -  Configure Help Topics
--  Admin Panel -> Manage -> Help Topics
--  Business Critical Outage
--  Personal Computer Issues
--  Equipment Request
--  Password Reset
+-  Admin Panel -> Manage -> Help Topics -> add new 
+-  Name the first one Business Critical Outage -> make all the "parent topic" top-level topic (default setting) -> Add topic -> save changes
+-  Name the second Personal Computer Issues
+-  Name the third Equipment Request
+-  Name the fourth Password Reset
 
 </p>
 <br />
