@@ -90,7 +90,7 @@ Teams
 <img src="https://imgur.com/B9jE1t8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-agent
+Agent
 </p>
 <br />
 
