@@ -102,8 +102,8 @@ Agents
 
 -  Configure Users (customers)
 -  Switch to Agent Panel -> Users -> Add New
--  Karen Doe -> make up email Karen@osTicket.com for example
--  Ken Doe
+-  Name the first one Karen Doe -> make up email Karen@osTicket.com for example
+-  Create a second one named Ken Doe
 
 </p>
 <br />
