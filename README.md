@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://imgur.com/ETrEen3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-roles
+Roles
 
 -  Configure Departments
 -  Admin Panel -> Agents -> Departments -> add department
@@ -53,7 +53,7 @@ roles
 <img src="https://imgur.com/w9pAPHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-departments
+Departments
 
 -  Configure Teams
 -  Admin Panel -> Agents -> Teams
@@ -71,7 +71,7 @@ departments
 <img src="https://imgur.com/eeO8zeF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-teams
+Teams
 
 -  Configure Agents (workers)
 -  Admin Panel -> Agents -> Add New
@@ -98,7 +98,7 @@ agent
 <img src="https://imgur.com/Tu2VvQd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-agents
+Agents
 
 -  Configure Users (customers)
 -  Switch to Agent Panel -> Users -> Add New
@@ -112,7 +112,7 @@ agents
 <img src="https://imgur.com/KRhFvRv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-users
+Users
 
 -  Configure SLA
 -  Switch back to Admin Panel -> Manage -> SLA
@@ -151,6 +151,6 @@ Slas
 <img src="https://imgur.com/96eADGP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-help topics
+Help topics
 </p>
 <br />
