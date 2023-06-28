@@ -1,4 +1,4 @@
-# os-ticket-post-install
+# osTicket-Post-Install
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 -  Configure Roles from Admin panel
 -  Admin Panel -> Agents -> Roles -> add
 -  Name new agent Supreme Admin -> click all boxes
--  click permissions tab -> click everything -> add role -> save
+-  Click permissions tab -> click everything -> add role -> save
 
 
 <p>
